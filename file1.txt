@@ -1,5 +1,5 @@
 hello world, i am learning git.
-this is line 2
+this is edited line 2 in the new branch
 this is line 3
 this is line 4
 this is line 5
